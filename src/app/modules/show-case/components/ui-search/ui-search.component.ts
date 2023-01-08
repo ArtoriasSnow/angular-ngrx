@@ -10,7 +10,7 @@ export class UiSearchComponent implements OnInit {
 
   src: string = '';
 
-  constructor(public showCaseService: ShowCaseService) { }
+  constructor() { }
 
   ngOnInit(): void {
 

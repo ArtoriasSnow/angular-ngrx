@@ -16,62 +16,62 @@ export class ShowCaseService {
       {
         name: "Pudgy Penguin #1",
         price: 0.2,
-        image: "https://api.pudgypenguins.io/penguin/image/1"
+        image: "https://i.seadn.io/gcs/files/05ea6d0f2aa066a98614d4fa89574e3f.png?auto=format&w=1000"
       },
       {
         name: "Pudgy Penguin #2",
         price: 0.1,
-        image: "https://api.pudgypenguins.io/penguin/image/2"
+        image: "https://i.seadn.io/gcs/files/af252be2501dfb1c5efaf69c797fcb1a.png?auto=format&w=1000"
       },
       {
         name: "Pudgy Penguin #3",
         price: 0.3,
-        image: "https://api.pudgypenguins.io/penguin/image/3"
+        image: "https://i.seadn.io/gcs/files/05ea6d0f2aa066a98614d4fa89574e3f.png?auto=format&w=1000"
       },
       {
         name: "Pudgy Penguin #4",
         price: 0.4,
-        image: "https://api.pudgypenguins.io/penguin/image/4"
+        image: "https://i.seadn.io/gcs/files/af252be2501dfb1c5efaf69c797fcb1a.png?auto=format&w=1000"
       },
       {
         name: "Pudgy Penguin #5",
         price: 0.5,
-        image: "https://api.pudgypenguins.io/penguin/image/5"
+        image: "https://i.seadn.io/gcs/files/05ea6d0f2aa066a98614d4fa89574e3f.png?auto=format&w=1000"
       },
       {
         name: "Pudgy Penguin #6",
         price: 0.6,
-        image: "https://api.pudgypenguins.io/penguin/image/6"
+        image: "https://i.seadn.io/gcs/files/af252be2501dfb1c5efaf69c797fcb1a.png?auto=format&w=1000"
       },
       {
         name: "Pudgy Penguin #7",
         price: 0.7,
-        image: "https://api.pudgypenguins.io/penguin/image/7"
+        image: "https://i.seadn.io/gcs/files/05ea6d0f2aa066a98614d4fa89574e3f.png?auto=format&w=1000"
       },
       {
         name: "Pudgy Penguin #8",
         price: 0.8,
-        image: "https://api.pudgypenguins.io/penguin/image/8"
+        image: "https://i.seadn.io/gcs/files/af252be2501dfb1c5efaf69c797fcb1a.png?auto=format&w=1000"
       },
       {
         name: "Pudgy Penguin #9",
         price: 0.9,
-        image: "https://api.pudgypenguins.io/penguin/image/9"
+        image: "https://i.seadn.io/gcs/files/05ea6d0f2aa066a98614d4fa89574e3f.png?auto=format&w=1000"
       },
       {
         name: "Pudgy Penguin #10",
         price: 0.9,
-        image: "https://api.pudgypenguins.io/penguin/image/10"
+        image: "https://i.seadn.io/gcs/files/af252be2501dfb1c5efaf69c797fcb1a.png?auto=format&w=1000"
       },
       {
         name: "Pudgy Penguin #11",
         price: 0.9,
-        image: "https://api.pudgypenguins.io/penguin/image/11"
+        image: "https://i.seadn.io/gcs/files/05ea6d0f2aa066a98614d4fa89574e3f.png?auto=format&w=1000"
       },
       {
         name: "Pudgy Penguin #12",
         price: 0.9,
-        image: "https://api.pudgypenguins.io/penguin/image/12"
+        image: "https://i.seadn.io/gcs/files/af252be2501dfb1c5efaf69c797fcb1a.png?auto=format&w=1000"
       }
     ]
 
